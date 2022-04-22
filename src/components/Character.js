@@ -7,7 +7,7 @@ const StyledCharacter = styled.div`
     padding: 20px;
     text-align: left;
     color: #e8d9f7;
-    background-color: black;
+    background-image: url('https://images.pexels.com/photos/7736151/pexels-photo-7736151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     margin: auto;
     border-radius: 15px;
     border-bottom: 2px solid #e8d9f7;
